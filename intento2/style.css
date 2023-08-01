@@ -1,0 +1,24 @@
+body {
+    background-color: #aa0b0be3;
+}
+
+header {
+    background-color: #000000;
+}
+
+#searchedCardList > li {
+    cursor: default;
+	background-color: #cb1111;
+}
+
+#searchedCardList > li:hover {
+   background-color: #f2ef2f;
+}
+
+#searchBar{
+	background-color: #acaa8b;
+}
+
+#infoOut{
+	background-color: #f2ef2f;
+}

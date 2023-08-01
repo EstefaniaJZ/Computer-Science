@@ -1,0 +1,17 @@
+Crear una aplicación web con HTML, CSS Y JS que sea un catálogo de algún tipo de productos y que tenga fltros para buscar. La info va a cambiar según los filtros que introduzca el usuario.
+
+*pokedex
+*Películas
+*superheroes
+*agenda de citas médicas
+
+Funcionalidad:
+1.-Utilizar tecnologías para construir un sitio que pueda mostrar una lista de productos 
+2.- Al menos 3 datos de producto + imagen
+3.- elemetos de formulario para filtrar la indormación que se muestra en pantalla
+4.- vista de forma dinamica en JS
+5.- usar 2 eventos en HTML
+6.- usar GRID, flexbox, materialize o bootsstrap
+7.-Footer y menu 
+8.- gir, conventional commits y atomic commits 
+9.- buenas practicas del alcance de variables

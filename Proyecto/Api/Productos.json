@@ -1,0 +1,82 @@
+[
+    {
+        "id": "carta1",
+        "titulo": "Cell Breeding Device",
+        "imagen_url": "https://images.ygoprodeck.com/images/cards/34541863.jpg",
+        "categoria": {
+            "nombre": "cartas",
+            "id": "cartas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "carta2",
+        "titulo": "Cell Incubador Device",
+        "imagen": "shttps://images.ygoprodec…mages/cards/91231901.jpg",
+        "categoria": {
+            "nombre": "cartas",
+            "id": "cartas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "carta3",
+        "titulo": "Cell Recombination Device",
+        "imagen": "./imagenes/carta3.jpg",
+        "categoria": {
+            "nombre": "cartas",
+            "id": "cartas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "carta4",
+        "titulo": "Cell Scatter Burst",
+        "imagen": "./imagenes/73262676.jpg",
+        "categoria": {
+            "nombre": "cartas",
+            "id": "cartas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "carta5",
+        "titulo": "Infernoble Arms",
+        "imagen": "./imagenes/inferno.jpg",
+        "categoria": {
+            "nombre": "cartas",
+            "id": "cartas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "carta6",
+        "titulo": "1st Movement Solo",
+        "imagen": "./imagenes/1st.jpg",
+        "categoria": {
+            "nombre": "cartas",
+            "id": "cartas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "carta7",
+        "titulo": "3-Hump Lacooda",
+        "imagen": "./imagenes/hump.jpg",
+        "categoria": {
+            "nombre": "cartas",
+            "id": "cartas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "carta8",
+        "titulo": "30,000 Year White Turtle",
+        "imagen": "./imagenes/3000.jpg",
+        "categoria": {
+            "nombre": "cartas",
+            "id": "cartas"
+        },
+        "precio": 1000
+    }
+]

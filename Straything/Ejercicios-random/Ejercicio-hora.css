@@ -1,0 +1,46 @@
+@font-face {
+    font-family: 'code_boldregular';
+    src: url('code_bold-webfont.eot');
+    src: url('code_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('code_bold-webfont.woff2') format('woff2'),
+         url('code_bold-webfont.woff') format('woff'),
+         url('code_bold-webfont.ttf') format('truetype'),
+         url('code_bold-webfont.svg#code_boldregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+*{
+    font-family: 'code_boldregular';
+}
+
+body{
+    background-image: url(back.jpg);
+}
+
+#contSaludo{
+    background: rgba(0,0,0,.7);
+    color: #fff;
+    display: block;
+    font-size: 3em;
+    margin: 40px 0 10px 40px;
+    padding: 40px 0;
+    text-align: center;
+    width: 500px;
+}
+
+#contReloj{
+    background: rgba(0,0,0,.7);
+    display: block;
+    margin: 0 0 40px 40px;
+    text-align: center;
+    width: 500px;
+}
+
+#contReloj > p{
+    color: #fff;
+    display: inline-block;
+    font-family: 'code_boldregular';
+    font-size: 6em;
+}
